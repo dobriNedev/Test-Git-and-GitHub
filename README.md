@@ -1,2 +1,2 @@
 # Test-Git-and-GitHub
-Rep for testting Git and GitHub functionallity and commands 
+Repo for testing Git and GitHub functionallity and commands 
